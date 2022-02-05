@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/mysql-%23121011.svg?style=for-the-badge&logo=mysql&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></h1>
+<img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/Postman-%23121011?style=for-the-badge&logo=postman&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="32"/></h1>
