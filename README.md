@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Postman-%23121011?style=for-the-badge&logo=postman&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/jenkins-%23121011.svg?style=for-the-badge&logo=jenkins&logoColor=white" height="32"/></h1>
+<img src="https://img.shields.io/badge/confluence-%23121011.svg?style=for-the-badge&logo=confluence&logoColor=white" height="32"/></h1>
+<img src="https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white" height="32"/></h1>
 </p>
 
 
