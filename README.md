@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alex</h1>
+<h3 align="center">Junior Java Developer from Belarus</h3>
 
 <!--
 **Sarmat92/Sarmat92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
