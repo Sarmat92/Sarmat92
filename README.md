@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/Ubuntu-%23121011?style=for-the-badge&logo=ubuntu&logoColor=white" height="32"/></h1>
 <img src="https://img.shields.io/badge/Windows-%23121011?style=for-the-badge&logo=windows&logoColor=white" height="32"/></h1>
+<img src="https://img.shields.io/badge/Slack-%23121011?style=for-the-badge&logo=slack&logoColor=white" height="32"/></h1>
 </p>
 
 
