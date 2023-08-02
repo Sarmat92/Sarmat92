@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Alex!</h1>
-<h3 align="center">Junior Java Developer</h3>
+<h3 align="center">Java Developer</h3>
 <p>
 <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white" height="32"/></h1> 
 <img src="https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white" height="32"/></h1>
